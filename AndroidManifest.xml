@@ -220,16 +220,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".nitrogen"
-            android:label="Nitrogen" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
             android:name=".screwd"
             android:label="Screwd" >
             <intent-filter>
@@ -282,16 +272,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".beaches"
             android:label="Beaches" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name=".bliss"
-            android:label="Bliss" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
